@@ -1,0 +1,10 @@
+POST http://localhost:8082/feedback
+Content-Type: application/json
+
+{
+"name":"Hector Contreras",
+"email":"hectorjcr@gmail.com",
+"feedback":"Cristo es el camino"
+}
+
+###
